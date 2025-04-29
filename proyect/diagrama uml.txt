@@ -1,0 +1,26 @@
++--------------------+
+|  CuentaBancaria    |
++--------------------+
+| - numeroCuenta     |
+| - titular          |
+| - saldo            |
++--------------------+
+| + depositar()      |
+| + retirar()        |
+| + transferir()     |
++--------------------+
+
+            ▲
+            |
++---------------------+
+|      Banco          |
++---------------------+
+| - cuentas[]         |
++---------------------+
+| + crearCuenta()     |
+| + eliminarCuenta()  |
+| + buscarCuenta()    |
+| + listarCuentas()   |
+| + mostrarhistorial()|
+| + guardar()         |
++---------------------+
