@@ -1,1 +1,0 @@
-# gestion-cuentas-bancarias-ejercicio-P.O.O.
